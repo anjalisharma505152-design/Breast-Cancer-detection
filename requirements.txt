@@ -1,0 +1,7 @@
+flask
+pymongo[srv]
+certifi
+dnspython
+numpy
+scikit-learn
+gunicorn
